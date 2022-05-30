@@ -1,0 +1,2 @@
+class CommentService : CrudService<Comments>() {
+}
